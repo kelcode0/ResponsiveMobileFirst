@@ -1,0 +1,15 @@
+{
+  "name": "webresponsivebetabit",
+  "version": "1.0.0",
+  "description": "Responsive web ",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "Kelvin Ortiz",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
